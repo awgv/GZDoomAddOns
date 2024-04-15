@@ -1,0 +1,19 @@
+#library "consolationPrizeLiquidReplacer"
+#include "zcommon.acs"
+
+script "ReplaceLiquidTextures" OPEN
+{
+	ReplaceTextures("D64B1_01","LPBLOOD");
+	ReplaceTextures("D64B2_01","LPBLOOD");
+	ReplaceTextures("D64N1_01","LPNUKE");
+	ReplaceTextures("D64N2_01","LPNUKE");
+	ReplaceTextures("D64S1_01","LPSLIME");
+	ReplaceTextures("D64S2_01","LPSLIME");
+	ReplaceTextures("D64W1_01","LPWATER");
+	ReplaceTextures("D64W2_01","LPWATER");
+	ReplaceTextures("D64L1_01","LPLAVA");
+	
+	ReplaceTextures("BFALL01","LPBLOODF");
+	ReplaceTextures("SFALL01","LPNUKEF");
+	ReplaceTextures("WFALL01","LPWATERF");
+}

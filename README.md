@@ -1,0 +1,5 @@
+- `consolation_prize_d64_liquid_texture_pack_replacer` replaces liquid textures, so that Doom 64 (Consolation Prize) can be played with [Liquid Texture Pack](https://forum.zdoom.org/viewtopic.php?f=103&t=74940).
+- `hd_consolation_prize_d64_chaingunguy_revenant_archvile_spawners` is a Hideous Destructor add-on that replaces some monsters in Doom 64 (Consolation Prize) with chaingunners, revenants and arch-viles: HDChainReplacer replaces 16% of ImpSpawner; revenants replace 40% of knights, 20% of mancubi, 10% of arachnotrons; arch-viles replace 28% of barons and 14% of arachnotrons.
+- `hd_radical_imp_translations` translates vanilla imps for variety, better visibility and some change of pace: fighters are grey, healers are green and casters are red.
+- `hd_skin_isaac_clarke_voice_pack` is an immersive voice-only `hd_skin` of Isaac Clarke from Dead Space for when you’re wearing a helmet. The voice pack contains 68 high quality sound samples randomized across all player states.
+- `hd_zspecops_pistol_zombieman_spawner` is a pistol zombieman spawner that’s functionally identical to the Freedoom version.

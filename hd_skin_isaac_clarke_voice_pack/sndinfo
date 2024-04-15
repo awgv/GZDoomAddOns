@@ -1,0 +1,158 @@
+player/isaac/taunt1 "Sounds/IsaacClarkeVoicePack/taunt1.ogg"
+player/isaac/taunt2 "Sounds/IsaacClarkeVoicePack/taunt2.ogg"
+$random player/isaac/taunt
+{
+	player/isaac/taunt1 player/isaac/taunt2
+}
+
+player/isaac/meds1 "Sounds/IsaacClarkeVoicePack/meds1.ogg"
+player/isaac/meds2 "Sounds/IsaacClarkeVoicePack/meds2.ogg"
+player/isaac/meds3 "Sounds/IsaacClarkeVoicePack/meds3.ogg"
+player/isaac/meds4 "Sounds/IsaacClarkeVoicePack/meds4.ogg"
+player/isaac/meds5 "Sounds/IsaacClarkeVoicePack/meds5.ogg"
+player/isaac/meds6 "Sounds/IsaacClarkeVoicePack/meds6.ogg"
+player/isaac/meds7 "Sounds/IsaacClarkeVoicePack/meds7.ogg"
+player/isaac/meds8 "Sounds/IsaacClarkeVoicePack/meds8.ogg"
+player/isaac/meds9 "Sounds/IsaacClarkeVoicePack/meds9.ogg"
+$random player/isaac/meds
+{
+	player/isaac/meds1
+	player/isaac/meds2
+	player/isaac/meds3
+	player/isaac/meds4
+	player/isaac/meds5
+	player/isaac/meds6
+	player/isaac/meds7
+	player/isaac/meds8
+	player/isaac/meds9
+}
+
+player/isaac/grunt1 "Sounds/IsaacClarkeVoicePack/grunt1.ogg"
+player/isaac/grunt2 "Sounds/IsaacClarkeVoicePack/grunt2.ogg"
+player/isaac/grunt3 "Sounds/IsaacClarkeVoicePack/grunt3.ogg"
+player/isaac/grunt4 "Sounds/IsaacClarkeVoicePack/grunt4.ogg"
+player/isaac/grunt5 "Sounds/IsaacClarkeVoicePack/grunt5.ogg"
+player/isaac/grunt6 "Sounds/IsaacClarkeVoicePack/grunt6.ogg"
+player/isaac/grunt7 "Sounds/IsaacClarkeVoicePack/grunt7.ogg"
+player/isaac/grunt8 "Sounds/IsaacClarkeVoicePack/grunt8.ogg"
+player/isaac/grunt9 "Sounds/IsaacClarkeVoicePack/grunt9.ogg"
+player/isaac/grunt10 "Sounds/IsaacClarkeVoicePack/grunt10.ogg"
+player/isaac/grunt11 "Sounds/IsaacClarkeVoicePack/grunt11.ogg"
+player/isaac/grunt12 "Sounds/IsaacClarkeVoicePack/grunt12.ogg"
+player/isaac/grunt13 "Sounds/IsaacClarkeVoicePack/grunt13.ogg"
+player/isaac/grunt14 "Sounds/IsaacClarkeVoicePack/grunt14.ogg"
+$random player/isaac/grunt
+{
+	player/isaac/grunt1
+	player/isaac/grunt2
+	player/isaac/grunt3
+	player/isaac/grunt4
+	player/isaac/grunt5
+	player/isaac/grunt6
+	player/isaac/grunt7
+	player/isaac/grunt8
+	player/isaac/grunt9
+	player/isaac/grunt10
+	player/isaac/grunt11
+	player/isaac/grunt12
+	player/isaac/grunt13
+	player/isaac/grunt14
+}
+
+player/isaac/pain1 "Sounds/IsaacClarkeVoicePack/pain1.ogg"
+player/isaac/pain2 "Sounds/IsaacClarkeVoicePack/pain2.ogg"
+player/isaac/pain3 "Sounds/IsaacClarkeVoicePack/pain3.ogg"
+player/isaac/pain4 "Sounds/IsaacClarkeVoicePack/pain4.ogg"
+player/isaac/pain5 "Sounds/IsaacClarkeVoicePack/pain5.ogg"
+player/isaac/pain6 "Sounds/IsaacClarkeVoicePack/pain6.ogg"
+player/isaac/pain7 "Sounds/IsaacClarkeVoicePack/pain7.ogg"
+player/isaac/pain8 "Sounds/IsaacClarkeVoicePack/pain8.ogg"
+player/isaac/pain9 "Sounds/IsaacClarkeVoicePack/pain9.ogg"
+player/isaac/pain10 "Sounds/IsaacClarkeVoicePack/pain10.ogg"
+player/isaac/pain11 "Sounds/IsaacClarkeVoicePack/pain11.ogg"
+player/isaac/pain12 "Sounds/IsaacClarkeVoicePack/pain12.ogg"
+player/isaac/pain13 "Sounds/IsaacClarkeVoicePack/pain13.ogg"
+player/isaac/pain14 "Sounds/IsaacClarkeVoicePack/pain14.ogg"
+player/isaac/pain15 "Sounds/IsaacClarkeVoicePack/pain15.ogg"
+player/isaac/pain16 "Sounds/IsaacClarkeVoicePack/pain16.ogg"
+player/isaac/pain17 "Sounds/IsaacClarkeVoicePack/pain17.ogg"
+player/isaac/pain18 "Sounds/IsaacClarkeVoicePack/pain18.ogg"
+player/isaac/pain19 "Sounds/IsaacClarkeVoicePack/pain19.ogg"
+player/isaac/pain20 "Sounds/IsaacClarkeVoicePack/pain20.ogg"
+player/isaac/pain21 "Sounds/IsaacClarkeVoicePack/pain21.ogg"
+player/isaac/pain22 "Sounds/IsaacClarkeVoicePack/pain22.ogg"
+player/isaac/pain23 "Sounds/IsaacClarkeVoicePack/pain23.ogg"
+player/isaac/pain24 "Sounds/IsaacClarkeVoicePack/pain24.ogg"
+player/isaac/pain25 "Sounds/IsaacClarkeVoicePack/pain25.ogg"
+player/isaac/pain26 "Sounds/IsaacClarkeVoicePack/pain26.ogg"
+player/isaac/pain27 "Sounds/IsaacClarkeVoicePack/pain27.ogg"
+player/isaac/pain28 "Sounds/IsaacClarkeVoicePack/pain28.ogg"
+player/isaac/pain29 "Sounds/IsaacClarkeVoicePack/pain29.ogg"
+$random player/isaac/pain
+{
+	player/isaac/pain1
+	player/isaac/pain2
+	player/isaac/pain3
+	player/isaac/pain4
+	player/isaac/pain5
+	player/isaac/pain6
+	player/isaac/pain7
+	player/isaac/pain8
+	player/isaac/pain9
+	player/isaac/pain10
+	player/isaac/pain11
+	player/isaac/pain12
+	player/isaac/pain13
+	player/isaac/pain14
+	player/isaac/pain15
+	player/isaac/pain16
+	player/isaac/pain17
+	player/isaac/pain18
+	player/isaac/pain19
+	player/isaac/pain20
+	player/isaac/pain21
+	player/isaac/pain22
+	player/isaac/pain23
+	player/isaac/pain24
+	player/isaac/pain25
+	player/isaac/pain26
+	player/isaac/pain27
+	player/isaac/pain28
+	player/isaac/pain29
+}
+
+player/isaac/death1 "Sounds/IsaacClarkeVoicePack/death1.ogg"
+player/isaac/death2 "Sounds/IsaacClarkeVoicePack/death2.ogg"
+player/isaac/death3 "Sounds/IsaacClarkeVoicePack/death3.ogg"
+player/isaac/death4 "Sounds/IsaacClarkeVoicePack/death4.ogg"
+player/isaac/death5 "Sounds/IsaacClarkeVoicePack/death5.ogg"
+player/isaac/death6 "Sounds/IsaacClarkeVoicePack/death6.ogg"
+player/isaac/death7 "Sounds/IsaacClarkeVoicePack/death7.ogg"
+player/isaac/death8 "Sounds/IsaacClarkeVoicePack/death8.ogg"
+player/isaac/death9 "Sounds/IsaacClarkeVoicePack/death9.ogg"
+player/isaac/death10 "Sounds/IsaacClarkeVoicePack/death10.ogg"
+player/isaac/death11 "Sounds/IsaacClarkeVoicePack/death11.ogg"
+$random player/isaac/death
+{
+	player/isaac/death1
+	player/isaac/death2
+	player/isaac/death3
+	player/isaac/death4
+	player/isaac/death5
+	player/isaac/death6
+	player/isaac/death7
+	player/isaac/death8
+	player/isaac/death9
+	player/isaac/death10
+	player/isaac/death11
+}
+
+player/isaac/xdeath1 "Sounds/IsaacClarkeVoicePack/xdeath1.ogg"
+player/isaac/xdeath2 "Sounds/IsaacClarkeVoicePack/xdeath2.ogg"
+player/isaac/xdeath3 "Sounds/IsaacClarkeVoicePack/xdeath3.ogg"
+$random player/isaac/xdeath
+{
+	player/isaac/xdeath1
+	player/isaac/xdeath2
+	player/isaac/xdeath3
+}
